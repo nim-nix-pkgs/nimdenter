@@ -11,7 +11,6 @@
   inputs.src-nimdenter-2022_1_7.ref   = "refs/tags/2022.1.7";
   inputs.src-nimdenter-2022_1_7.owner = "xigoi";
   inputs.src-nimdenter-2022_1_7.repo  = "nimdenter";
-  inputs.src-nimdenter-2022_1_7.dir   = "";
   inputs.src-nimdenter-2022_1_7.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";

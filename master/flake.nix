@@ -11,7 +11,6 @@
   inputs.src-nimdenter-master.ref   = "refs/heads/master";
   inputs.src-nimdenter-master.owner = "xigoi";
   inputs.src-nimdenter-master.repo  = "nimdenter";
-  inputs.src-nimdenter-master.dir   = "";
   inputs.src-nimdenter-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
